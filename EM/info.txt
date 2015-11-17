@@ -1,0 +1,6 @@
+
+
+
+EM is not a model, it's a procedure for model inferencing.
+
+

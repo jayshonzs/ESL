@@ -1,0 +1,10 @@
+A famous result of Cover and Hart (1967) shows that asymptotically the
+error rate of the 1-nearest-neighbor classifier is never more than twice the
+Bayes rate.
+
+Many additional results of this kind have been derived; Ripley (1996) sum-
+marizes a number of them.
+
+5-knn is the best in LANDSAT.
+
+We can use knn/tangent_distance to do zipcode classification.
